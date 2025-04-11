@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wvdb\\Desktop\\DiscounterApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{760C8688-FEF2-4257-8D54-1892155F777D}|Discounter\\Discounter.csproj|c:\\users\\wvdb\\desktop\\discounterapp\\discounter\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C8688-FEF2-4257-8D54-1892155F777D}|Discounter\\Discounter.csproj|solutionrelative:discounter\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C8688-FEF2-4257-8D54-1892155F777D}|Discounter\\Discounter.csproj|c:\\users\\wvdb\\desktop\\discounterapp\\discounter\\tenproductdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C8688-FEF2-4257-8D54-1892155F777D}|Discounter\\Discounter.csproj|solutionrelative:discounter\\tenproductdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C8688-FEF2-4257-8D54-1892155F777D}|Discounter\\Discounter.csproj|c:\\users\\wvdb\\desktop\\discounterapp\\discounter\\threefortwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C8688-FEF2-4257-8D54-1892155F777D}|Discounter\\Discounter.csproj|solutionrelative:discounter\\threefortwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C8688-FEF2-4257-8D54-1892155F777D}|Discounter\\Discounter.csproj|c:\\users\\wvdb\\desktop\\discounterapp\\discounter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C8688-FEF2-4257-8D54-1892155F777D}|Discounter\\Discounter.csproj|solutionrelative:discounter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C8688-FEF2-4257-8D54-1892155F777D}|Discounter\\Discounter.csproj|c:\\users\\wvdb\\desktop\\discounterapp\\discounter\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C8688-FEF2-4257-8D54-1892155F777D}|Discounter\\Discounter.csproj|solutionrelative:discounter\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C8688-FEF2-4257-8D54-1892155F777D}|Discounter\\Discounter.csproj|c:\\users\\wvdb\\desktop\\discounterapp\\discounter\\idiscountstrat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C8688-FEF2-4257-8D54-1892155F777D}|Discounter\\Discounter.csproj|solutionrelative:discounter\\idiscountstrat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151364285:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TenProductDiscount.cs",
+              "DocumentMoniker": "C:\\Users\\wvdb\\Desktop\\DiscounterApp\\Discounter\\TenProductDiscount.cs",
+              "RelativeDocumentMoniker": "Discounter\\TenProductDiscount.cs",
+              "ToolTip": "C:\\Users\\wvdb\\Desktop\\DiscounterApp\\Discounter\\TenProductDiscount.cs",
+              "RelativeToolTip": "Discounter\\TenProductDiscount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:44:32.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThreeForTwo.cs",
+              "DocumentMoniker": "C:\\Users\\wvdb\\Desktop\\DiscounterApp\\Discounter\\ThreeForTwo.cs",
+              "RelativeDocumentMoniker": "Discounter\\ThreeForTwo.cs",
+              "ToolTip": "C:\\Users\\wvdb\\Desktop\\DiscounterApp\\Discounter\\ThreeForTwo.cs",
+              "RelativeToolTip": "Discounter\\ThreeForTwo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:17:48.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDiscountStrat.cs",
+              "DocumentMoniker": "C:\\Users\\wvdb\\Desktop\\DiscounterApp\\Discounter\\IDiscountStrat.cs",
+              "RelativeDocumentMoniker": "Discounter\\IDiscountStrat.cs",
+              "ToolTip": "C:\\Users\\wvdb\\Desktop\\DiscounterApp\\Discounter\\IDiscountStrat.cs",
+              "RelativeToolTip": "Discounter\\IDiscountStrat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T09:28:21.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\wvdb\\Desktop\\DiscounterApp\\Discounter\\Order.cs",
+              "RelativeDocumentMoniker": "Discounter\\Order.cs",
+              "ToolTip": "C:\\Users\\wvdb\\Desktop\\DiscounterApp\\Discounter\\Order.cs",
+              "RelativeToolTip": "Discounter\\Order.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T08:53:23.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wvdb\\Desktop\\DiscounterApp\\Discounter\\Program.cs",
+              "RelativeDocumentMoniker": "Discounter\\Program.cs",
+              "ToolTip": "C:\\Users\\wvdb\\Desktop\\DiscounterApp\\Discounter\\Program.cs",
+              "RelativeToolTip": "Discounter\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwB4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T08:47:40.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\wvdb\\Desktop\\DiscounterApp\\Discounter\\Product.cs",
+              "RelativeDocumentMoniker": "Discounter\\Product.cs",
+              "ToolTip": "C:\\Users\\wvdb\\Desktop\\DiscounterApp\\Discounter\\Product.cs",
+              "RelativeToolTip": "Discounter\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T08:47:25.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

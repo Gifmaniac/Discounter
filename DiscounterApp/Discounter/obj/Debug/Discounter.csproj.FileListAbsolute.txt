@@ -1,0 +1,35 @@
+C:\Users\31628\OneDrive - Office 365 Fontys\Y. Instructions\S2\Discounter\Discounter\bin\Debug\Discounter.exe.config
+C:\Users\31628\OneDrive - Office 365 Fontys\Y. Instructions\S2\Discounter\Discounter\bin\Debug\Discounter.exe
+C:\Users\31628\OneDrive - Office 365 Fontys\Y. Instructions\S2\Discounter\Discounter\bin\Debug\Discounter.pdb
+C:\Users\31628\OneDrive - Office 365 Fontys\Y. Instructions\S2\Discounter\Discounter\obj\Debug\Discounter.csprojAssemblyReference.cache
+C:\Users\31628\OneDrive - Office 365 Fontys\Y. Instructions\S2\Discounter\Discounter\obj\Debug\Discounter.csproj.CoreCompileInputs.cache
+C:\Users\31628\OneDrive - Office 365 Fontys\Y. Instructions\S2\Discounter\Discounter\obj\Debug\Discounter.exe
+C:\Users\31628\OneDrive - Office 365 Fontys\Y. Instructions\S2\Discounter\Discounter\obj\Debug\Discounter.pdb
+C:\Users\31628\OneDrive - Office 365 Fontys\Y. Instructions\S2\Interfaces\Discounter\Discounter\bin\Debug\Discounter.exe.config
+C:\Users\31628\OneDrive - Office 365 Fontys\Y. Instructions\S2\Interfaces\Discounter\Discounter\bin\Debug\Discounter.exe
+C:\Users\31628\OneDrive - Office 365 Fontys\Y. Instructions\S2\Interfaces\Discounter\Discounter\bin\Debug\Discounter.pdb
+C:\Users\31628\OneDrive - Office 365 Fontys\Y. Instructions\S2\Interfaces\Discounter\Discounter\obj\Debug\Discounter.csprojAssemblyReference.cache
+C:\Users\31628\OneDrive - Office 365 Fontys\Y. Instructions\S2\Interfaces\Discounter\Discounter\obj\Debug\Discounter.csproj.CoreCompileInputs.cache
+C:\Users\31628\OneDrive - Office 365 Fontys\Y. Instructions\S2\Interfaces\Discounter\Discounter\obj\Debug\Discounter.exe
+C:\Users\31628\OneDrive - Office 365 Fontys\Y. Instructions\S2\Interfaces\Discounter\Discounter\obj\Debug\Discounter.pdb
+C:\Users\31628\OneDrive - Office 365 Fontys\Y. Instructions\S2\Interfaces\Discounter_v1\Discounter\Discounter\bin\Debug\Discounter.exe.config
+C:\Users\31628\OneDrive - Office 365 Fontys\Y. Instructions\S2\Interfaces\Discounter_v1\Discounter\Discounter\bin\Debug\Discounter.exe
+C:\Users\31628\OneDrive - Office 365 Fontys\Y. Instructions\S2\Interfaces\Discounter_v1\Discounter\Discounter\bin\Debug\Discounter.pdb
+C:\Users\31628\OneDrive - Office 365 Fontys\Y. Instructions\S2\Interfaces\Discounter_v1\Discounter\Discounter\obj\Debug\Discounter.csprojAssemblyReference.cache
+C:\Users\31628\OneDrive - Office 365 Fontys\Y. Instructions\S2\Interfaces\Discounter_v1\Discounter\Discounter\obj\Debug\Discounter.csproj.CoreCompileInputs.cache
+C:\Users\31628\OneDrive - Office 365 Fontys\Y. Instructions\S2\Interfaces\Discounter_v1\Discounter\Discounter\obj\Debug\Discounter.exe
+C:\Users\31628\OneDrive - Office 365 Fontys\Y. Instructions\S2\Interfaces\Discounter_v1\Discounter\Discounter\obj\Debug\Discounter.pdb
+C:\Users\31628\OneDrive - Office 365 Fontys\Y. Instructions\S2 CB\W10\DiscounterApp\Discounter\bin\Debug\Discounter.exe.config
+C:\Users\31628\OneDrive - Office 365 Fontys\Y. Instructions\S2 CB\W10\DiscounterApp\Discounter\bin\Debug\Discounter.exe
+C:\Users\31628\OneDrive - Office 365 Fontys\Y. Instructions\S2 CB\W10\DiscounterApp\Discounter\bin\Debug\Discounter.pdb
+C:\Users\31628\OneDrive - Office 365 Fontys\Y. Instructions\S2 CB\W10\DiscounterApp\Discounter\obj\Debug\Discounter.csprojAssemblyReference.cache
+C:\Users\31628\OneDrive - Office 365 Fontys\Y. Instructions\S2 CB\W10\DiscounterApp\Discounter\obj\Debug\Discounter.csproj.CoreCompileInputs.cache
+C:\Users\31628\OneDrive - Office 365 Fontys\Y. Instructions\S2 CB\W10\DiscounterApp\Discounter\obj\Debug\Discounter.exe
+C:\Users\31628\OneDrive - Office 365 Fontys\Y. Instructions\S2 CB\W10\DiscounterApp\Discounter\obj\Debug\Discounter.pdb
+C:\Users\wvdb\Desktop\DiscounterApp\Discounter\bin\Debug\Discounter.exe.config
+C:\Users\wvdb\Desktop\DiscounterApp\Discounter\bin\Debug\Discounter.exe
+C:\Users\wvdb\Desktop\DiscounterApp\Discounter\bin\Debug\Discounter.pdb
+C:\Users\wvdb\Desktop\DiscounterApp\Discounter\obj\Debug\Discounter.csproj.AssemblyReference.cache
+C:\Users\wvdb\Desktop\DiscounterApp\Discounter\obj\Debug\Discounter.csproj.CoreCompileInputs.cache
+C:\Users\wvdb\Desktop\DiscounterApp\Discounter\obj\Debug\Discounter.exe
+C:\Users\wvdb\Desktop\DiscounterApp\Discounter\obj\Debug\Discounter.pdb

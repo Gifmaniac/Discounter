@@ -1,0 +1,5 @@
+The application should be extended in such a way that it is possible to:
+1. Apply a discount of 1 euro in case the entire order consists of more than 10 products
+2. In case you have 3 or more products of one type, you will get one of those product for free. In example: I order 3 bunches or more than 3 bunches of bananas to the order, I will get 1 bunch of bananas for free.
+
+Take the SRP and OCP in consideration when designing / implementing the extension to the application.
